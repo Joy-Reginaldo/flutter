@@ -6,8 +6,6 @@ Este é um aplicativo Flutter simples que calcula o IMC (Índice de Massa Corpor
 
 A interface foi desenvolvida com base no seguinte protótipo:
 
-*(adicione aqui a imagem ou link do protótipo)*
-
 ## 🧩 Funcionalidades
 
 - Seleção de gênero (masculino/feminino)
@@ -34,7 +32,7 @@ IMC = peso / (altura * altura)
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/flutter-bmi-calculator.git
+git clone https://github.com/Joy-Reginaldo/flutter.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -54,12 +52,6 @@ flutter run
 
 > Certifique-se de estar com o ambiente Flutter corretamente configurado. Use `flutter doctor` para verificar.
 
-## 📹 Demonstração em Vídeo
-
-Clique no link abaixo para ver uma demonstração do funcionamento da aplicação:
-
-[🔗 Link do vídeo explicativo no YouTube](adicione_o_link_aqui)
-
 ## 📋 Estrutura do Código
 
 - `main.dart`: toda a lógica da aplicação (UI, cálculo, validação).
@@ -69,7 +61,7 @@ Clique no link abaixo para ver uma demonstração do funcionamento da aplicaçã
 ## 📂 Estrutura do Projeto
 
 ```
-flutter_bmi_calculator/
+flutter/
 ├── lib/
 │   └── main.dart
 ├── README.md
@@ -77,5 +69,4 @@ flutter_bmi_calculator/
 ```
 
 ## 👩‍💻 Autor(a)
-
-- **Seu nome** – [@seu-usuario](https://github.com/seu-usuario)
+Joy
